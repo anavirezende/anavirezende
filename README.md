@@ -5,7 +5,7 @@
 
   <p style="max-width:500px; color:#c9addb;">
     Apaixonada por resolver problemas através da tecnologia.  
-    Em transição de carreira para Tecnologia, explorando automação, boas práticas e construção de software confiável.
+    - Aprimorando habilidades em automação de testes e boas práticas para garantir entregas confiáveis e eficientes.
   </p>
 
   <a href="https://www.linkedin.com/in/anavirezende" target="_blank">

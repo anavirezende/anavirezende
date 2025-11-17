@@ -20,6 +20,15 @@
 
 ---
 
+## 📌 Índice
+
+- [💜 Sobre Mim](#-sobre-mim)
+- [🧰 Tecnologias que uso](#-tecnologias-e-ferramentas)
+- [📁 Projeto em Destaque](#-projeto-em-destaque)
+- [🎯 Objetivos Atuais](#-objetivos-atuais)
+
+---
+
 ## 💜 Sobre Mim
 
 <div style="color:#b792d9;">
@@ -33,20 +42,16 @@ Atualmente estudando **Automação de Testes**, **Cypress**, **JavaScript**, **P
 
 <div align="center">
 
-<table>
-  <tr>
-    <td><strong>🚀 Testes</strong></td>
-    <td>Cypress</td>
-  </tr>
-  <tr>
-    <td><strong>💻 Linguagens</strong></td>
-    <td>JavaScript • Python • SQL • HTML/CSS</td>
-  </tr>
-  <tr>
-    <td><strong>🛠️ Ferramentas</strong></td>
-    <td>Git • GitHub • VSCode • Trello</td>
-  </tr>
-</table>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 

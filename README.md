@@ -4,8 +4,8 @@
   <h3 style="color:#d4bfff;">Quality Assurance | Estudante de ADS</h3>
 
   <p style="max-width:500px; color:#c9addb;">
-    Apaixonada por resolver problemas através da tecnologia.  
-    - Aprimorando habilidades em automação de testes e boas práticas para garantir entregas confiáveis e eficientes.
+    Apaixonada por resolver problemas através da tecnologia.
+    Aprimorando habilidades em automação de testes e boas práticas para garantir entregas confiáveis e eficientes.
   </p>
 
   <a href="https://www.linkedin.com/in/anavirezende" target="_blank">

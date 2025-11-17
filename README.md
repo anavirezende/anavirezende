@@ -14,8 +14,6 @@
 
   <br/><br/>
 
-  <img src="https://i.imgur.com/5fX8jQh.png" width="400" alt="divider" />
-
 </div>
 
 ---
@@ -74,8 +72,6 @@ Inclui estrutura organizada, boas práticas e documentação clara.
 
 ---
 
-## 🌸 “Construindo qualidade um teste de cada vez.” 🌸
-
-<div align="center">
-  <img src="https://i.imgur.com/g8QtkZV.png" width="300" alt="lavender aesthetic" />
+<div align="center" style="color:#b792d9; font-size:18px;">
+  🌸 “Construindo qualidade um teste de cada vez.” 🌸
 </div>

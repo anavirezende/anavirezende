@@ -4,7 +4,7 @@
   <h3 style="color:#d4bfff;">Quality Assurance | Estudante de ADS</h3>
 
   <p style="max-width:500px; color:#c9addb;">
-    Apaixonada por qualidade, testes e pela experiência do usuário.  
+    Apaixonada por resolver problemas através da tecnologia.  
     Em transição de carreira para Tecnologia, explorando automação, boas práticas e construção de software confiável.
   </p>
 

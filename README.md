@@ -1,16 +1,81 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**anavirezende/anavirezende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1 style="color:#b792d9;">✨ Ana Vitória Rezende ✨</h1>
+  <h3 style="color:#d4bfff;">Quality Assurance | Estudante de ADS</h3>
 
-Here are some ideas to get you started:
+  <p style="max-width:500px; color:#c9addb;">
+    Apaixonada por qualidade, testes e pela experiência do usuário.  
+    Em transição de carreira para Tecnologia, explorando automação, boas práticas e construção de software confiável.
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://www.linkedin.com/in/anavirezende" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/LinkedIn-ana%20vit%C3%B3ria-%23b792d9?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <br/><br/>
+
+  <img src="https://i.imgur.com/5fX8jQh.png" width="400" alt="divider" />
+
+</div>
+
+---
+
+## 💜 Sobre Mim
+
+<div style="color:#b792d9;">
+Sou uma profissional em formação na área de QA, com background em Direito e paixão por análise, organização e atenção aos detalhes.  
+Atualmente estudando **Automação de Testes**, **Cypress**, **JavaScript**, **Python** e **Qualidade de Software**.
+</div>
+
+---
+
+## 🔧 Tecnologias e Ferramentas
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><strong>🚀 Testes</strong></td>
+    <td>Cypress</td>
+  </tr>
+  <tr>
+    <td><strong>💻 Linguagens</strong></td>
+    <td>JavaScript • Python • SQL • HTML/CSS</td>
+  </tr>
+  <tr>
+    <td><strong>🛠️ Ferramentas</strong></td>
+    <td>Git • GitHub • VSCode • Trello</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📁 Projeto em Destaque
+
+<div style="color:#b792d9;">
+
+### 🧪 Automação de Testes — Projeto Bootcamp QA  
+Projeto completo em Cypress, utilizando Page Objects, comandos personalizados e testes E2E das funcionalidades de **login**, **cadastro de cargos** e **cadastro de funcionários**.  
+Inclui estrutura organizada, boas práticas e documentação clara.
+
+🔗 *Link do repositório:* *(https://github.com/anavirezende/Projeto_Bootcamp_QA.git)*  
+</div>
+
+---
+
+## 🎯 Objetivos Atuais
+
+- Aprimorar habilidades em **automação E2E com Cypress**  
+- Criar uma base sólida de conhecimentos como QA  
+- Me aprofundar em **testes de API** futuramente  
+- Desenvolver um portfólio profissional forte  
+
+---
+
+## 🌸 “Construindo qualidade um teste de cada vez.” 🌸
+
+<div align="center">
+  <img src="https://i.imgur.com/g8QtkZV.png" width="300" alt="lavender aesthetic" />
+</div>

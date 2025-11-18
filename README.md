@@ -33,7 +33,7 @@
 
 <div style="color:#b792d9;">
 Sou uma profissional em formação na área de QA, com background em Direito e paixão por análise, organização e atenção aos detalhes.  
-Atualmente estudando <strong>Automação de Testes</strong>, <strong>Cypress</strong>, <strong>JavaScript</strong>, <strong>Python</strong> e <strong>Qualidade de Software</strong>.
+Atualmente me graduando em Análise e desenvolvimento de sistemas e estudando <strong>Automação de Testes</strong>, <strong>Cypress</strong>, <strong>JavaScript</strong>, <strong>Python</strong> e <strong>Qualidade de Software</strong>.
 </div>
 
 ---

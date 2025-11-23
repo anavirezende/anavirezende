@@ -68,6 +68,12 @@ Inclui estrutura organizada, boas práticas e documentação clara.
 🔗 *Link do repositório:* *(https://github.com/anavirezende/Projeto_Bootcamp_QA.git)*  
 </div>
 
+### 🧪 QA Insights — Projeto Imersão Dev
+Base de conhecimento sobre Qualidade de Software, criada durante a Imersão Dev (Alura + Google). A plataforma apresenta cards interativos com conteúdos sobre tipos, técnicas e ferramentas de testes e QA, além de links que direcionam para a Alura, permitindo aprofundar os estudos e impulsionar a carreira em tecnologia.
+
+🔗 *Link do repositório:* *(https://github.com/anavirezende/imersao-dev.git)*  
+</div>
+
 ---
 
 ## 🎯 Objetivos Atuais

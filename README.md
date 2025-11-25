@@ -74,6 +74,12 @@ Base de conhecimento sobre Qualidade de Software, criada durante a Imersão Dev 
 🔗 *Link do repositório:* *(https://github.com/anavirezende/imersao-dev.git)*  
 </div>
 
+### 🧪 Clínica Vida+ — Projeto de conclusão de semestre acadêmico
+Protótipo de um sistema de gerenciamento de clínicas desenvolvido em Python como um projeto acadêmico. A aplicação opera via console (CLI) e permite a administração de pacientes, médicos, consultas e exames.
+
+🔗 *Link do repositório:* *(https://github.com/anavirezende/projeto-clinica-vida-mais.git)*  
+</div>
+
 ---
 
 ## 🎯 Objetivos Atuais

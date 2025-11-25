@@ -24,7 +24,7 @@
 
 - [💜 Sobre Mim](#-sobre-mim)
 - [🧰 Tecnologias que uso](#-tecnologias-e-ferramentas)
-- [📁 Projeto em Destaque](#-projeto-em-destaque)
+- [📁 Projetos em Destaque](#-projeto-em-destaque)
 - [🎯 Objetivos Atuais](#-objetivos-atuais)
 
 ---
@@ -57,7 +57,7 @@ Atualmente me graduando em Análise e desenvolvimento de sistemas e estudando <s
 
 ---
 
-## 📁 Projeto em Destaque
+## 📁 Projetos em Destaque
 
 <div style="color:#b792d9;">
 

@@ -1,96 +1,153 @@
 <div align="center">
 
-  <h1 style="color:#b792d9;">✨ Ana Vitória Rezende ✨</h1>
-  <h3 style="color:#d4bfff;">Quality Assurance | Estudante de ADS</h3>
+<img src="https://raw.githubusercontent.com/anavirezende/anavirezende/main/avatar.png" width="180px" style="border-radius: 50%;" />
 
-  <p style="max-width:500px; color:#c9addb;">
-    Apaixonada por resolver problemas através da tecnologia.
-    Aprimorando habilidades em automação de testes e boas práticas para garantir entregas confiáveis e eficientes.
-  </p>
+<br/>
 
-  <a href="https://www.linkedin.com/in/anavirezende" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/LinkedIn-ana%20vit%C3%B3ria-%23b792d9?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF6B5B&height=80&section=header&fontColor=fff)
 
-  <br/><br/>
+# Ana Vitória Rezende
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anavirezende&layout=compact&theme=radical" />
+**`QA Analyst · ADS Student · Bug Hunter 🐛`**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B5B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anavirezende)
+[![GitHub](https://img.shields.io/badge/GitHub-2b2b2b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anavirezende)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B5B&height=3" width="100%"/>
 
-## 📌 Índice
+<br/>
 
-- [💜 Sobre Mim](#-sobre-mim)
-- [🧰 Tecnologias que uso](#-tecnologias-e-ferramentas)
-- [📁 Projetos em Destaque](#-projeto-em-destaque)
-- [🎯 Objetivos Atuais](#-objetivos-atuais)
+## 🧡 `whoami`
 
----
+```yaml
+nome:       Ana Vitória Rezende
+localidade: Uberaba, MG 🇧🇷
+empresa:    Bravo - Serviços Logísticos
+formação:   Análise e Desenvolvimento de Sistemas (cursando)
+background: Direito → Tecnologia 🔄
+foco:       Qualidade de Software & Automação de Testes
+```
 
-## 💜 Sobre Mim
+> 🌸 *"Construindo qualidade um teste de cada vez."*
 
-<div style="color:#b792d9;">
-Sou uma profissional em formação na área de QA, com background em Direito e paixão por análise, organização e atenção aos detalhes.  
-Atualmente me graduando em Análise e desenvolvimento de sistemas e estudando <strong>Automação de Testes</strong>, <strong>Cypress</strong>, <strong>JavaScript</strong>, <strong>Python</strong> e <strong>Qualidade de Software</strong>.
-</div>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B5B&height=3" width="100%"/>
 
-## 🔧 Tecnologias e Ferramentas
+<br/>
+
+## 🔧 `tech.stack()`
+
+**Linguagens**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-FF6B5B?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2b2b2b?style=flat-square&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-FF6B5B?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-2b2b2b?style=flat-square&logo=css3&logoColor=white)
+
+**QA & Automação**
+
+![Cypress](https://img.shields.io/badge/Cypress-2b2b2b?style=flat-square&logo=cypress&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-FF6B5B?style=flat-square&logo=github-actions&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-FF6B5B?style=flat-square&logo=git&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-2b2b2b?style=flat-square&logo=trello&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-FF6B5B?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B5B&height=3" width="100%"/>
+
+<br/>
+
+## 📁 `projects[]`
+
+<details>
+<summary><b>🧪 Projeto Bootcamp QA</b> — Automação E2E com Cypress</summary>
+
+<br>
+
+Projeto completo de automação de testes usando **Cypress** com arquitetura de **Page Objects** e comandos customizados.
+
+Coberturas de teste:
+- ✅ Login
+- ✅ Cadastro de cargos
+- ✅ Cadastro de funcionários
+
+🔗 [Ver repositório](https://github.com/anavirezende/Projeto_Bootcamp_QA)
+
+</details>
+
+<details>
+<summary><b>🔎 QA Insights</b> — Plataforma de conhecimento sobre QA</summary>
+
+<br>
+
+Base de conhecimento interativa sobre Qualidade de Software, desenvolvida durante a **Imersão Dev (Alura + Google)**.
+
+- 📋 Tipos de testes
+- 🛠️ Técnicas e ferramentas
+- 🔗 Links para aprofundamento na Alura
+
+🔗 [Ver repositório](https://github.com/anavirezende/imersao-dev)
+
+</details>
+
+<details>
+<summary><b>🏥 Clínica Vida+</b> — Sistema de gestão em Python</summary>
+
+<br>
+
+Protótipo de sistema de gerenciamento de clínicas via **CLI em Python**, desenvolvido como projeto de conclusão de semestre.
+
+- 👤 Gestão de pacientes e médicos
+- 📅 Agendamento de consultas
+- 🔬 Controle de exames
+
+🔗 [Ver repositório](https://github.com/anavirezende/projeto-clinica-vida-mais)
+
+</details>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B5B&height=3" width="100%"/>
+
+<br/>
+
+## 🎯 `current_goals.txt`
+
+```
+[ ] Aprimorar automação E2E com Cypress
+[ ] Aprofundar em testes de API
+[ ] Construir portfólio profissional sólido
+[ ] Solidificar base técnica de QA
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B5B&height=3" width="100%"/>
+
+<br/>
+
+## 📊 `stats`
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anavirezende&layout=compact&theme=buefy&hide_border=true&title_color=FF6B5B&text_color=2b2b2b&bg_color=fff5f4)
 
 </div>
 
----
+<br/>
 
-## 📁 Projetos em Destaque
+<div align="center">
 
-<div style="color:#b792d9;">
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=anavirezende.anavirezende&color=FF6B5B)
 
-### 🧪 Automação de Testes — Projeto Bootcamp QA  
-Projeto completo em Cypress, utilizando Page Objects, comandos personalizados e testes E2E das funcionalidades de **login**, **cadastro de cargos** e **cadastro de funcionários**.  
-Inclui estrutura organizada, boas práticas e documentação clara.
+![footer](https://capsule-render.vercel.app/api?type=waving&color=FF6B5B&height=80&section=footer)
 
-🔗 *Link do repositório:* *(https://github.com/anavirezende/Projeto_Bootcamp_QA.git)*  
-</div>
-
-### 🧪 QA Insights — Projeto Imersão Dev
-Base de conhecimento sobre Qualidade de Software, criada durante a Imersão Dev (Alura + Google). A plataforma apresenta cards interativos com conteúdos sobre tipos, técnicas e ferramentas de testes e QA, além de links que direcionam para a Alura, permitindo aprofundar os estudos e impulsionar a carreira em tecnologia.
-
-🔗 *Link do repositório:* *(https://github.com/anavirezende/imersao-dev.git)*  
-</div>
-
-### 🧪 Clínica Vida+ — Projeto de conclusão de semestre acadêmico
-Protótipo de um sistema de gerenciamento de clínicas desenvolvido em Python como um projeto acadêmico. A aplicação opera via console (CLI) e permite a administração de pacientes, médicos, consultas e exames.
-
-🔗 *Link do repositório:* *(https://github.com/anavirezende/projeto-clinica-vida-mais.git)*  
-</div>
-
----
-
-## 🎯 Objetivos Atuais
-
-- Aprimorar habilidades em **automação E2E com Cypress**  
-- Criar uma base sólida de conhecimentos como QA  
-- Me aprofundar em **testes de API** futuramente  
-- Desenvolver um portfólio profissional forte  
-
----
-
-<div align="center" style="color:#b792d9; font-size:18px;">
-  🌸 “Construindo qualidade um teste de cada vez.” 🌸
 </div>

@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/anavirezende/anavirezende/main/avatar.png" width="160" style="border-radius:50%"/>
-
 <br/><br/>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF6B5B&height=90&section=header&text=Ana%20Vitória%20Rezende&fontColor=fff&fontSize=32&fontAlignY=65&desc=QA%20Analyst%20·%20ADS%20Student%20·%20Bug%20Hunter%20🐛&descAlignY=85&descSize=14&descColor=ffe0dc)
+
+<img src="https://raw.githubusercontent.com/anavirezende/anavirezende/main/avatar.png" width="160" style="border-radius:50%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B5B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anavirezende)
 [![GitHub](https://img.shields.io/badge/GitHub-2b2b2b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anavirezende)
